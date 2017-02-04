@@ -537,7 +537,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("dummy/app")["default"].create({"name":"ember-leaflet-draw","version":"0.4.1+9da47a16"});
+  require("dummy/app")["default"].create({"name":"ember-leaflet-draw","version":"0.4.1+95e89c1e"});
 }
 
 /* jshint ignore:end */
